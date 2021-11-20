@@ -1624,7 +1624,7 @@ class CommentsController < ApplicationController
 
 记住你不需要独自完成一切，在安装和运行 Rails 时如果需要帮助，请随时使用下面的资源：
 
-*   [Ruby on Rails 指南](http://rails.guide)
+*   [Ruby on Rails 指南](https://guides.rubyonrails.org/)
 *   [Ruby on Rails 教程](http://railstutorial-china.org)
 *   [Ruby on Rails 邮件列表](http://groups.google.com/group/rubyonrails-talk)
 *   irc.freenode.net 中的 [#rubyonrails](irc://irc.freenode.net/#rubyonrails) 频道
